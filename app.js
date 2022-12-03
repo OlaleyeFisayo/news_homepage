@@ -19,7 +19,6 @@ menuTwo.addEventListener('click', () => {
 for(let i = 5; i <= 9; i++) {
     navBarLink[i].addEventListener('click', () => {
         navBarTwo.style.right = "-150%";
-        navBarTwo.style.boxShadow = "none";
-        
+        navBarTwo.style.boxShadow = "none";   
     })
 }
