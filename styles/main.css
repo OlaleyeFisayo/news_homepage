@@ -212,6 +212,9 @@ footer section .imgbox img {
   width: 100%;
   height: 100%;
 }
+footer section .article {
+  padding: 20px 0;
+}
 footer section .article h1 {
   color: hsl(233deg, 8%, 79%);
   font-size: 2rem;
